@@ -1,1 +1,1 @@
-![image](air_pollution.jpeg)
+![image](air_pollution.jpg)
